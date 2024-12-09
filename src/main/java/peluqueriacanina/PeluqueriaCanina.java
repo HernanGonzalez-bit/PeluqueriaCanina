@@ -2,6 +2,7 @@
 package peluqueriacanina;
 
 import peluqueriacanina.igu.Principal;
+import peluqueriacanina.persistencia.UsuarioDAO;
 
 
 public class PeluqueriaCanina {
@@ -11,6 +12,9 @@ public class PeluqueriaCanina {
         Principal princ = new Principal();
         princ.setVisible(true);
         princ.setLocationRelativeTo(null);
+        
+         UsuarioDAO usuarioDAO = new UsuarioDAO();
+        usuarioDAO.agregarUsuario("Juan Pérez", "juan.perez@email.com");
         
     }
 }

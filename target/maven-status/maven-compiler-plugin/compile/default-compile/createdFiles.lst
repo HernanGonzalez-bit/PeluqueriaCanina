@@ -5,7 +5,9 @@ peluqueriacanina\logica\Controladora.class
 peluqueriacanina\persistencia\exceptions\NonexistentEntityException.class
 peluqueriacanina\igu\VerDatos$2.class
 peluqueriacanina\igu\CargaDatos$1.class
+peluqueriacanina\persistencia\DatabaseConnection.class
 peluqueriacanina\igu\ModificarDatos.class
+peluqueriacanina\persistencia\UsuarioDAO.class
 peluqueriacanina\logica\Mascota.class
 peluqueriacanina\igu\Principal$1.class
 peluqueriacanina\igu\Principal$4.class
