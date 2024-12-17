@@ -2,6 +2,7 @@
 
 ## Descripción
 Este es un sistema CRUD para gestionar clientes y mascotas de una peluquería canina. El proyecto está desarrollado en Java utilizando Maven y MySQL.
+Hecho a la par de Luisina de Todocode <3 
 
 
 
